@@ -37,14 +37,25 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
-    runntxt(GL+"          Assalamu'alaikum. °_° "
-	    time.sleep(1.5)
-      print GG+ "         █▀▀ █▀▀█ ░░▀ █▀▀█ █▀▀█   ░▀░ █▀▀▄"
-      print GG+ "         █▀▀ █▄▄█ ░░█ █▄▄█ █▄▄▀   ▀█▀ █░░█"
-      print GG+ "         ▀░░ ▀░░▀ █▄█ ▀░░▀ ▀░▀▀   ▀▀▀ ▀▀▀░"
+    runntxt(GL+"              Assalamu'allaikum *_*")
+    runntxt(WW+"               Salam Hacktivis Indo")
+    runntxt(GG+"    █▀▀ █▀▀█ ░░▀ █▀▀█ █▀▀█   ░▀░ █▀▀▄")
+    runntxt(GG+"    █▀▀ █▄▄█ ░░█ █▄▄█ █▄▄▀   ▀█▀ █░░█")
+    runntxt(GG+"    ▀░░ ▀░░▀ █▄█ ▀░░▀ ▀░▀▀   ▀▀▀ ▀▀▀")
+    time.sleep(1.5)
+    print GG+"    ============================================="
+    print GL+"    •••    TOOLS HACK FACEBOOK TARGET 2K19    •••"
+    print GG+"    ============================================="
+    runntxt(RR+"    ════════════════════════════════════")
+    runntxt(RR+"    ═    Author    : Fajar Septianto         ═")
+    runntxt(GL+"    ═    Facebook  : Fajar Id                ═")
+    runntxt(YY+"    ═    Contac Me : Chat FB Aja ea          ═")
+    runntxt(BB+"    ═_______Bocah Ngapak Berkreasi 404_______═")
+    runntxt(RR+"    ════════════════════════════════════")
+
 banner()
 
-print wd+"            Contac Me Facebook Fajar Id "
+print wd+"         Contac Me My Facebook Fajar Id "
 print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
@@ -158,7 +169,7 @@ def runn_noobs():
                   `.-::////::-.` \033[91;1m
 
                 \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m Fajar Id :*
+             Powered by:\033[97m Fajar Id
       """
 
 
