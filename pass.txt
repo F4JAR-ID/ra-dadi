@@ -3,6 +3,7 @@ doraemon
 hellokitty
 bandung
 jakarta
+@fajar
 fajar-id
 ganteng
 monyet
